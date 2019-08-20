@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>括 Cool</title>
+  
+  <subtitle>Cool`s blog</subtitle>
+  <link href="/blog/atom.xml" rel="self"/>
+  
+  <link href="https://bkcsplayer.github.io/blog/"/>
+  <updated>2019-08-19T06:01:43.089Z</updated>
+  <id>https://bkcsplayer.github.io/blog/</id>
+  
+  <author>
+    <name>Cool</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>About Me</title>
+    <link href="https://bkcsplayer.github.io/blog/2019/08/19/About-me/"/>
+    <id>https://bkcsplayer.github.io/blog/2019/08/19/About-me/</id>
+    <published>2019-08-19T02:15:27.000Z</published>
+    <updated>2019-08-19T06:01:43.089Z</updated>
+    
+    <content type="html"><![CDATA[<p>这是一个关于自己的一篇文章</p><a id="more"></a><h2 id="我的名字叫Cool"><a href="#我的名字叫Cool" class="headerlink" title="我的名字叫Cool"></a>我的名字叫Cool</h2><p>我有一个老婆，邓氏家长女，今年20有几，初为人母，落落大方，温文尔雅，知心大方。<br>我们的  重要纪念日是每年的8/20日</p>]]></content>
+    
+    <summary type="html">
+    
+      这是一个关于自己的一篇文章
+    
+    </summary>
+    
+      <category term="自我介绍" scheme="https://bkcsplayer.github.io/blog/categories/%E8%87%AA%E6%88%91%E4%BB%8B%E7%BB%8D/"/>
+    
+    
+      <category term="我" scheme="https://bkcsplayer.github.io/blog/tags/%E6%88%91/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>imgblog</title>
+    <link href="https://bkcsplayer.github.io/blog/2019/08/19/imgblog/"/>
+    <id>https://bkcsplayer.github.io/blog/2019/08/19/imgblog/</id>
+    <published>2019-08-19T02:15:27.000Z</published>
+    <updated>2019-08-19T05:53:40.547Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="祖国统一神圣不可侵犯"><a href="#祖国统一神圣不可侵犯" class="headerlink" title="祖国统一神圣不可侵犯"></a>祖国统一神圣不可侵犯</h2><a id="more"></a><p>针对香港目前的暴乱进行的一片测试文章，</p><p><img src="https://images-na.ssl-images-amazon.com/images/I/71bMY4PGv7L._SL1500_.jpg" alt="网络图片例子"></p>]]></content>
+    
+    <summary type="html">
+    
+      这是一篇正义的文章
+    
+    </summary>
+    
+      <category term="一国两制" scheme="https://bkcsplayer.github.io/blog/categories/%E4%B8%80%E5%9B%BD%E4%B8%A4%E5%88%B6/"/>
+    
+    
+      <category term="国旗" scheme="https://bkcsplayer.github.io/blog/tags/%E5%9B%BD%E6%97%97/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>加油，你可以的，我们终于成功了</title>
+    <link href="https://bkcsplayer.github.io/blog/2019/08/14/second/"/>
+    <id>https://bkcsplayer.github.io/blog/2019/08/14/second/</id>
+    <published>2019-08-14T05:19:24.670Z</published>
+    <updated>2019-08-14T05:32:38.375Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="Mini-app进行的位置"><a href="#Mini-app进行的位置" class="headerlink" title="Mini-app进行的位置"></a>Mini-app进行的位置</h2><p>目前需要对当前版本的几个bug进行修改，对文章进行一些内容的更新。</p><h3 id="短期目标"><a href="#短期目标" class="headerlink" title="短期目标"></a>短期目标</h3><p>最近希望在Mini-app里面添加一个blog系统，以便进行之后的项目</p><h3 id="如何在自己的发布的文章里面添加图片呢？？"><a href="#如何在自己的发布的文章里面添加图片呢？？" class="headerlink" title="如何在自己的发布的文章里面添加图片呢？？"></a>如何在自己的发布的文章里面添加图片呢？？</h3><p>还在尝试中，目前不清楚有那些方法</p><h3 id="网站中的音乐是如何添加的呢？"><a href="#网站中的音乐是如何添加的呢？" class="headerlink" title="网站中的音乐是如何添加的呢？"></a>网站中的音乐是如何添加的呢？</h3><p>我有看到在  themes/diaspora 的主配置文件有mp3 的格式，但是里面的地址让我觉得有些奇怪，不知道是不是  xx云存储里的 文件。<br>有待考察</p><h1 id="Hexo-Configuration"><a href="#Hexo-Configuration" class="headerlink" title="Hexo Configuration"></a>Hexo Configuration</h1><h2 id="Docs-http-zespia-tw-hexo-docs-configure-html"><a href="#Docs-http-zespia-tw-hexo-docs-configure-html" class="headerlink" title="Docs: http://zespia.tw/hexo/docs/configure.html"></a>Docs: <a href="http://zespia.tw/hexo/docs/configure.html" target="_blank" rel="noopener">http://zespia.tw/hexo/docs/configure.html</a></h2><h2 id="Source-https-github-com-tommy351-hexo"><a href="#Source-https-github-com-tommy351-hexo" class="headerlink" title="Source: https://github.com/tommy351/hexo/"></a>Source: <a href="https://github.com/tommy351/hexo/" target="_blank" rel="noopener">https://github.com/tommy351/hexo/</a></h2><h1 id="Site-这里的配置，哪项配置反映在哪里，可以参考我的博客"><a href="#Site-这里的配置，哪项配置反映在哪里，可以参考我的博客" class="headerlink" title="Site 这里的配置，哪项配置反映在哪里，可以参考我的博客"></a>Site 这里的配置，哪项配置反映在哪里，可以参考我的博客</h1><p>title: My Blog #博客名<br>subtitle: to be continued… #副标题<br>description: My blog #给搜索引擎看的，对网站的描述，可以自定义<br>author: Yourname #作者，在博客底部可以看到<br>email: <a href="mailto:yourname@yourmail.com" target="_blank" rel="noopener">yourname@yourmail.com</a> #你的联系邮箱<br>language: zh-CN #中文。如果不填则默认英文</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;Mini-app进行的位置&quot;&gt;&lt;a href=&quot;#Mini-app进行的位置&quot; class=&quot;headerlink&quot; title=&quot;Mini-app进行的位置&quot;&gt;&lt;/a&gt;Mini-app进行的位置&lt;/h2&gt;&lt;p&gt;目前需要对当前版本的几个bug进行修改，对文章进行一
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Cool Mini App</title>
+    <link href="https://bkcsplayer.github.io/blog/2019/08/14/coolminiapp/"/>
+    <id>https://bkcsplayer.github.io/blog/2019/08/14/coolminiapp/</id>
+    <published>2019-08-14T04:08:49.342Z</published>
+    <updated>2019-08-14T04:34:43.824Z</updated>
+    
+    <content type="html"><![CDATA[<p>这里是我第一次使用Hexo搭建个人博客，目前的进行到把我创建的这个项目连接到github上以便于达到一个开放的目的。</p><h2 id="Mini-app进行的位置"><a href="#Mini-app进行的位置" class="headerlink" title="Mini-app进行的位置"></a>Mini-app进行的位置</h2><p>目前需要对当前版本的几个bug进行修改，对文章进行一些内容的更新。</p><h3 id="短期目标"><a href="#短期目标" class="headerlink" title="短期目标"></a>短期目标</h3><p>最近希望在Mini-app里面添加一个blog系统，以便进行之后的项目</p><h3 id="如何在自己的发布的文章里面添加图片呢？？"><a href="#如何在自己的发布的文章里面添加图片呢？？" class="headerlink" title="如何在自己的发布的文章里面添加图片呢？？"></a>如何在自己的发布的文章里面添加图片呢？？</h3><p>还在尝试中，目前不清楚有那些方法</p><h3 id="网站中的音乐是如何添加的呢？"><a href="#网站中的音乐是如何添加的呢？" class="headerlink" title="网站中的音乐是如何添加的呢？"></a>网站中的音乐是如何添加的呢？</h3><p>我有看到在  themes/diaspora 的主配置文件有mp3 的格式，但是里面的地址让我觉得有些奇怪，不知道是不是  xx云存储里的 文件。<br>有待考察</p><h1 id="Hexo-Configuration"><a href="#Hexo-Configuration" class="headerlink" title="Hexo Configuration"></a>Hexo Configuration</h1><h2 id="Docs-http-zespia-tw-hexo-docs-configure-html"><a href="#Docs-http-zespia-tw-hexo-docs-configure-html" class="headerlink" title="Docs: http://zespia.tw/hexo/docs/configure.html"></a>Docs: <a href="http://zespia.tw/hexo/docs/configure.html" target="_blank" rel="noopener">http://zespia.tw/hexo/docs/configure.html</a></h2><h2 id="Source-https-github-com-tommy351-hexo"><a href="#Source-https-github-com-tommy351-hexo" class="headerlink" title="Source: https://github.com/tommy351/hexo/"></a>Source: <a href="https://github.com/tommy351/hexo/" target="_blank" rel="noopener">https://github.com/tommy351/hexo/</a></h2><h1 id="Site-这里的配置，哪项配置反映在哪里，可以参考我的博客"><a href="#Site-这里的配置，哪项配置反映在哪里，可以参考我的博客" class="headerlink" title="Site 这里的配置，哪项配置反映在哪里，可以参考我的博客"></a>Site 这里的配置，哪项配置反映在哪里，可以参考我的博客</h1><p>title: My Blog #博客名<br>subtitle: to be continued… #副标题<br>description: My blog #给搜索引擎看的，对网站的描述，可以自定义<br>author: Yourname #作者，在博客底部可以看到<br>email: <a href="mailto:yourname@yourmail.com" target="_blank" rel="noopener">yourname@yourmail.com</a> #你的联系邮箱<br>language: zh-CN #中文。如果不填则默认英文</p><h1 id="URL-这项暂不配置，绑定域名后，欲创建sitemap-xml需要配置该项"><a href="#URL-这项暂不配置，绑定域名后，欲创建sitemap-xml需要配置该项" class="headerlink" title="URL #这项暂不配置，绑定域名后，欲创建sitemap.xml需要配置该项"></a>URL #这项暂不配置，绑定域名后，欲创建sitemap.xml需要配置该项</h1><h2 id="If-your-site-is-put-in-a-subdirectory-set-url-as-‘http-yoursite-com-child-39-and-root-as-‘-child-‘"><a href="#If-your-site-is-put-in-a-subdirectory-set-url-as-‘http-yoursite-com-child-39-and-root-as-‘-child-‘" class="headerlink" title="If your site is put in a subdirectory, set url as ‘http://yoursite.com/child&#39; and root as ‘/child/‘"></a>If your site is put in a subdirectory, set url as ‘<a href="http://yoursite.com/child&#39;" target="_blank" rel="noopener">http://yoursite.com/child&#39;</a> and root as ‘/child/‘</h2><p>url: <a href="http://yoursite.com" target="_blank" rel="noopener">http://yoursite.com</a><br>root: /<br>permalink: :year/:month/:day/:title/<br>tag_dir: tags<br>archive_dir: archives<br>category_dir: categories</p><h1 id="Writing-文章布局、写作格式的定义，不修改"><a href="#Writing-文章布局、写作格式的定义，不修改" class="headerlink" title="Writing 文章布局、写作格式的定义，不修改"></a>Writing 文章布局、写作格式的定义，不修改</h1><p>new_post_name: :title.md # File name of new posts<br>default_layout: post<br>auto_spacing: false # Add spaces between asian characters and western characters<br>titlecase: false # Transform title into titlecase<br>max_open_file: 100<br>filename_case: 0<br>highlight:<br>  enable: true<br>  backtick_code_block: true<br>  line_number: true<br>  tab_replace:</p><h1 id="Category-amp-Tag"><a href="#Category-amp-Tag" class="headerlink" title="Category &amp; Tag"></a>Category &amp; Tag</h1><p>default_category: uncategorized<br>category_map:<br>tag_map:</p><h1 id="Archives-默认值为2，这里都修改为1，相应页面就只会列出标题，而非全文"><a href="#Archives-默认值为2，这里都修改为1，相应页面就只会列出标题，而非全文" class="headerlink" title="Archives 默认值为2，这里都修改为1，相应页面就只会列出标题，而非全文"></a>Archives 默认值为2，这里都修改为1，相应页面就只会列出标题，而非全文</h1><h2 id="2-Enable-pagination"><a href="#2-Enable-pagination" class="headerlink" title="2: Enable pagination"></a>2: Enable pagination</h2><h2 id="1-Disable-pagination"><a href="#1-Disable-pagination" class="headerlink" title="1: Disable pagination"></a>1: Disable pagination</h2><h2 id="0-Fully-Disable"><a href="#0-Fully-Disable" class="headerlink" title="0: Fully Disable"></a>0: Fully Disable</h2><p>archive: 1<br>category: 1<br>tag: 1</p><h1 id="Server-不修改"><a href="#Server-不修改" class="headerlink" title="Server 不修改"></a>Server 不修改</h1><h2 id="Hexo-uses-Connect-as-a-server"><a href="#Hexo-uses-Connect-as-a-server" class="headerlink" title="Hexo uses Connect as a server"></a>Hexo uses Connect as a server</h2><h2 id="You-can-customize-the-logger-format-as-defined-in"><a href="#You-can-customize-the-logger-format-as-defined-in" class="headerlink" title="You can customize the logger format as defined in"></a>You can customize the logger format as defined in</h2><h2 id="http-www-senchalabs-org-connect-logger-html"><a href="#http-www-senchalabs-org-connect-logger-html" class="headerlink" title="http://www.senchalabs.org/connect/logger.html"></a><a href="http://www.senchalabs.org/connect/logger.html" target="_blank" rel="noopener">http://www.senchalabs.org/connect/logger.html</a></h2><p>port: 4000<br>logger: false<br>logger_format:</p><h1 id="Date-Time-format-日期格式，可以修改成自己喜欢的格式"><a href="#Date-Time-format-日期格式，可以修改成自己喜欢的格式" class="headerlink" title="Date / Time format 日期格式，可以修改成自己喜欢的格式"></a>Date / Time format 日期格式，可以修改成自己喜欢的格式</h1><h2 id="Hexo-uses-Moment-js-to-parse-and-display-date"><a href="#Hexo-uses-Moment-js-to-parse-and-display-date" class="headerlink" title="Hexo uses Moment.js to parse and display date"></a>Hexo uses Moment.js to parse and display date</h2><h2 id="You-can-customize-the-date-format-as-defined-in"><a href="#You-can-customize-the-date-format-as-defined-in" class="headerlink" title="You can customize the date format as defined in"></a>You can customize the date format as defined in</h2><h2 id="http-momentjs-com-docs-displaying-format"><a href="#http-momentjs-com-docs-displaying-format" class="headerlink" title="http://momentjs.com/docs/#/displaying/format/"></a><a href="http://momentjs.com/docs/#/displaying/format/" target="_blank" rel="noopener">http://momentjs.com/docs/#/displaying/format/</a></h2><p>date_format: YYYY-M-D<br>time_format: H:mm:ss</p><h1 id="Pagination-每页显示文章数，可以自定义，贴主设置的是10"><a href="#Pagination-每页显示文章数，可以自定义，贴主设置的是10" class="headerlink" title="Pagination 每页显示文章数，可以自定义，贴主设置的是10"></a>Pagination 每页显示文章数，可以自定义，贴主设置的是10</h1><h2 id="Set-per-page-to-0-to-disable-pagination"><a href="#Set-per-page-to-0-to-disable-pagination" class="headerlink" title="Set per_page to 0 to disable pagination"></a>Set per_page to 0 to disable pagination</h2><p>per_page: 10<br>pagination_dir: page</p><h1 id="Disqus-Disqus插件，我们会替换成“多说”，不修改"><a href="#Disqus-Disqus插件，我们会替换成“多说”，不修改" class="headerlink" title="Disqus Disqus插件，我们会替换成“多说”，不修改"></a>Disqus Disqus插件，我们会替换成“多说”，不修改</h1><p>disqus_shortname:</p><h1 id="Extensions-这里配置站点所用主题和插件，暂时默认"><a href="#Extensions-这里配置站点所用主题和插件，暂时默认" class="headerlink" title="Extensions 这里配置站点所用主题和插件，暂时默认"></a>Extensions 这里配置站点所用主题和插件，暂时默认</h1><h2 id="Plugins-https-github-com-tommy351-hexo-wiki-Plugins"><a href="#Plugins-https-github-com-tommy351-hexo-wiki-Plugins" class="headerlink" title="Plugins: https://github.com/tommy351/hexo/wiki/Plugins"></a>Plugins: <a href="https://github.com/tommy351/hexo/wiki/Plugins" target="_blank" rel="noopener">https://github.com/tommy351/hexo/wiki/Plugins</a></h2><h2 id="Themes-https-github-com-tommy351-hexo-wiki-Themes"><a href="#Themes-https-github-com-tommy351-hexo-wiki-Themes" class="headerlink" title="Themes: https://github.com/tommy351/hexo/wiki/Themes"></a>Themes: <a href="https://github.com/tommy351/hexo/wiki/Themes" target="_blank" rel="noopener">https://github.com/tommy351/hexo/wiki/Themes</a></h2><p>theme: landscape<br>exclude_generator:<br>plugins:</p><ul><li>hexo-generator-feed</li><li>hexo-generator-sitemap</li></ul><h1 id="Deployment-站点部署到github要配置"><a href="#Deployment-站点部署到github要配置" class="headerlink" title="Deployment 站点部署到github要配置"></a>Deployment 站点部署到github要配置</h1><h2 id="Docs-http-zespia-tw-hexo-docs-deploy-html"><a href="#Docs-http-zespia-tw-hexo-docs-deploy-html" class="headerlink" title="Docs: http://zespia.tw/hexo/docs/deploy.html"></a>Docs: <a href="http://zespia.tw/hexo/docs/deploy.html" target="_blank" rel="noopener">http://zespia.tw/hexo/docs/deploy.html</a></h2><p>deploy:<br>  type: git<br>  repository:<br>  branch: master</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;这里是我第一次使用Hexo搭建个人博客，目前的进行到把我创建的这个项目连接到github上以便于达到一个开放的目的。&lt;/p&gt;
+&lt;h2 id=&quot;Mini-app进行的位置&quot;&gt;&lt;a href=&quot;#Mini-app进行的位置&quot; class=&quot;headerlink&quot; title=&quot;
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://bkcsplayer.github.io/blog/2019/08/13/hello-world/"/>
+    <id>https://bkcsplayer.github.io/blog/2019/08/13/hello-world/</id>
+    <published>2019-08-13T05:35:40.193Z</published>
+    <updated>2019-08-16T04:26:30.029Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
